@@ -1,5 +1,7 @@
 # Cryptocurrency Token ICO Website | First Sample Project 
 
+<img src="images/Token3.png" height="600" width="1200"/>
+
 ## Pre-requisites
 
 - Local machine blockchain, Ganache , must be installed in your machine.
