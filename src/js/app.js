@@ -145,7 +145,7 @@ App = {
                     EPICTokenInstance=instance;
                     return EPICTokenInstance.balanceOf(App.account);
                 }).then(function(balance){
-                    $('.epic-balance').html(balance.toNumber());
+                    $('.userBalance').html(balance.toNumber());
                     App.loading=false;
                     loader.hide();
                     content.show();
